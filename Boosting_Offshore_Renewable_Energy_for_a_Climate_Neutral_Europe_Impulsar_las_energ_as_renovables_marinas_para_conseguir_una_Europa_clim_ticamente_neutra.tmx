@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx14.dtd">
+<tmx version="1.4">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e0" segtype="sentence" srclang="EN"/>
+  <body>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>European Commission - Press release Boosting Offshore Renewable Energy for a Climate Neutral Europe Brussels, 19 November 2020 To help meet the EU's goal of climate neutrality by 2050, the European Commission today presents the EU Strategy on Offshore Renewable Energy.</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20201123T195027Z">
+        <seg>Comisión Europea - Comunicado de prensa Impulsar las energías renovables marinas para conseguir una Europa climáticamente neutra Bruselas, 19 de noviembre de 2020 Para contribuir a alcanzar el objetivo de la UE de neutralidad climática de aquí a 2050, la Comisión Europea presenta hoy la Estrategia de la UE sobre las Energías Renovables Marinas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>The Strategy proposes to increase Europe's offshore wind capacity from its current level of 12 GW to at least 60 GW by 2030 and to 300 GW by 2050.</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20201123T195027Z">
+        <seg>La Estrategia propone aumentar la capacidad de producción de energía eólica marina de Europa de su nivel actual de 12 GW a, como mínimo, 60 GW para 2030 y 300 GW para 2050.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>The Commission aims to complement this with 40 GW of ocean energy and other emerging technologies such as floating wind and solar by 2050.</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20201123T195027Z">
+        <seg>La Comisión pretende complementarla con 40 GW de energía oceánica y otras tecnologías emergentes, como las energías eólica y solar flotantes, de aquí a 2050.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>This ambitious growth will be based on the vast potential across all of Europe's sea basins and on the global leadership position of EU companies in the sector.</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20201123T195027Z">
+        <seg>Este crecimiento ambicioso se sustentará en el enorme potencial de todas las cuencas marítimas de Europa y en la posición de liderazgo mundial de las empresas de la UE en el sector.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>It will create new opportunities for industry, generate green jobs across the continent, and strengthen the EU's global leadership in offshore energy technologies.</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20201123T195027Z">
+        <seg>Se crearán nuevas oportunidades para la industria, se generarán empleos verdes en todo el continente y se reforzará el liderazgo mundial de la UE en tecnologías de energía marina.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>It will also ensure the protection of our environment, biodiversity and fisheries.</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20201123T195027Z">
+        <seg>También se garantizará la protección del medio ambiente, la biodiversidad y la pesca.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Executive Vice-President for the European Green Deal, Frans Timmermans said: “Today's strategy shows the urgency and opportunity of ramping up our investment in offshore renewables.</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20201123T195027Z">
+        <seg>El vicepresidente ejecutivo para el Pacto Verde Europeo, Frans Timmermans, ha declarado: «La estrategia de hoy muestra la urgencia y la oportunidad de aumentar nuestra inversión en energías renovables marinas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>With our vast sea basins and industrial leadership, the European Union has all that it needs to rise up to the challenge.</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20201123T195027Z">
+        <seg>Gracias a nuestras enormes cuencas marítimas y a nuestro liderazgo industrial, la Unión Europea tiene todo lo necesario para afrontar el reto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Already, offshore renewable energy is a true European success story.</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20201123T195027Z">
+        <seg>Las energías renovables marinas ya son un auténtico éxito europeo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>We aim to turn it into an even greater opportunity for clean energy, high quality jobs, sustainable growth, and international competitiveness.” Commissioner for Energy, Kadri Simson, said: “Europe is a world leader in offshore renewable energy and can become a powerhouse for its global development.</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20201123T195027Z">
+        <seg>Nuestro objetivo es convertirlas en una oportunidad aún mayor para conseguir energía limpia, empleo de alta calidad, un crecimiento sostenible y competitividad internacional». Por su parte, la comisaria de Energía, Kadri Simson, ha afirmado: «Europa es líder mundial en energías renovables marinas y puede convertirse en una potencia para su desarrollo mundial.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>We must step up our game by harnessing all the potential of offshore wind and by advancing other technologies such as wave, tidal and floating solar.</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20201123T195027Z">
+        <seg>Debemos dar un paso adelante aprovechando todo el potencial de la energía eólica marina e impulsando otras tecnologías, como la undimotriz, la mareomotriz y la energía solar flotante.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>This Strategy sets a clear direction and establishes a stable framework, which are crucial for public authorities, investors and developers in this sector.</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20201123T195027Z">
+        <seg>Esta Estrategia proporciona una dirección clara y un marco estable, que son esenciales para las autoridades públicas, los inversores y los desarrolladores de este sector.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>We need to boost the EU's domestic production to achieve our climate targets, feed the growing electricity demand and support the economy in its post-Covid recovery.”  Commissioner for Environment, Oceans and Fisheries, Virginijus Sinkevičius, said: “Today's strategy outlines how we can develop offshore renewable energy in combination with other human activities, such as fisheries, aquaculture or shipping, and in harmony with nature.</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20201123T195027Z">
+        <seg>Tenemos que impulsar la producción interior de la UE para alcanzar nuestros objetivos climáticos, satisfacer la creciente demanda de electricidad y ayudar a la economía en su recuperación tras la COVID». Virginijus Sinkevičius, comisario de Medio Ambiente, Océanos y Pesca, declaraba: «La estrategia de hoy esboza la manera en que podemos desarrollar las energías renovables marinas en combinación con otras actividades humanas, como la pesca, la acuicultura o el transporte marítimo, y en armonía con la naturaleza.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>The proposals will also allow us to protect biodiversity and to address possible socio-economic consequences for sectors relying on good health of marine ecosystems, thus promoting a sound coexistence within the maritime space.” To promote the scale-up of offshore energy capacity, the Commission will encourage cross-border cooperation between Member States on long term planning and deployment.</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20201123T195027Z">
+        <seg>Las propuestas también nos permitirán proteger la biodiversidad y abordar las posibles consecuencias socioeconómicas para los sectores que dependen de la buena salud de los ecosistemas marinos, fomentando así una coexistencia sólida dentro del espacio marítimo». Para promover la expansión de la capacidad en energía marina, la Comisión fomentará la cooperación transfronteriza entre los Estados miembros en materia de planificación e implementación a largo plazo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>This will require integrating offshore renewable energy development objectives in the National Maritime Spatial Plans which coastal states are due to submit to the Commission by March 2021.</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20201123T195027Z">
+        <seg>Para ello será necesario integrar los objetivos de desarrollo de las energías renovables marinas en los planes nacionales de ordenación del espacio marítimo que los Estados ribereños deben presentar a la Comisión a más tardar en marzo de 2021.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>The Commission will also propose a framework under the revised TEN-E Regulation for long-term offshore grid planning, involving regulators and the Member States in each sea basin.</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20201123T195027Z">
+        <seg>Además, la Comisión propondrá un marco en relación con el Reglamento RTE-E revisado para la planificación de la red marítima a largo plazo, con la participación de los reguladores y de los Estados miembros en cada cuenca marítima.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>The Commission estimates that investment of nearly €800 billion will be needed between now and 2050 to meet its proposed objectives.</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20201123T195027Z">
+        <seg>La Comisión estima que se necesitará una inversión de casi 800 000 millones de euros de aquí a 2050 para alcanzar los objetivos propuestos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>To help generate and unleash this investment, the Commission will: Provide a clear and supportive legal framework.</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20201123T195027Z">
+        <seg>A fin de contribuir a generar y liberar esta inversión, la Comisión: Proporcionará un marco jurídico claro y de apoyo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>To this end, the Commission today also clarified the electricity market rules in an accompanying Staff Working Document and will assess whether more specific and targeted rules are needed.</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20201123T195027Z">
+        <seg>A tal fin, la Comisión también ha aclarado hoy las normas del mercado de la electricidad en un documento de trabajo de los servicios de la Comisión adicional y evaluará si son necesarias normas más específicas y orientadas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>The Commission will ensure that the revisions of the State aid guidelines on energy and environmental protection and of the Renewable Energy Directive will facilitate cost-effective deployment of renewable offshore energy.</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20201123T195027Z">
+        <seg>La Comisión velará por que las revisiones de las directrices sobre ayudas estatales en materia de energía y protección del medio ambiente y de la Directiva sobre energías renovables faciliten un despliegue de las energías renovables marinas más eficiente en términos de costes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Help mobilise all relevant funds to support the sector's development.</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20201123T195027Z">
+        <seg>Ayudará a movilizar todos los fondos necesarios para fomentar el desarrollo del sector.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>The Commission encourages Member States to use the Recovery and Resilience Facility and work together with the European Investment Bank and other financial institutions to support investments in offshore energy through InvestEU.</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20201123T195027Z">
+        <seg>La Comisión anima a los Estados miembros a utilizar el Mecanismo de Recuperación y Resiliencia y a colaborar con el Banco Europeo de Inversiones y otras instituciones financieras para apoyar las inversiones en energía marina a través de InvestEU.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Horizon Europe funds will be mobilised to support research and development, particularly in less mature technologies.</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20201123T195027Z">
+        <seg>Se movilizarán fondos de Horizonte Europa para apoyar la investigación y el desarrollo, en particular en tecnologías menos maduras.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Ensure a strengthened supply chain.</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20201123T195027Z">
+        <seg>Garantizará una cadena de suministro reforzada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>The Strategy underlines the need to improve manufacturing capacity and port infrastructure and to increase the appropriately skilled workforce to sustain higher installation rates.</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20201123T195027Z">
+        <seg>La Estrategia subraya la necesidad de mejorar la capacidad de fabricación y las infraestructuras portuarias y de aumentar la mano de obra debidamente cualificada para mantener unos índices de instalación más elevados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>The Commission plans to establish a dedicated platform on offshore renewables within the Clean Energy Industrial Forum to bring together all actors and address supply chain development.</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20201123T195027Z">
+        <seg>La Comisión tiene previsto crear una plataforma específica sobre las energías renovables marinas en el marco del foro sectorial sobre energía limpia para reunir a todos los agentes y abordar el desarrollo de la cadena de suministro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Offshore renewable energy is a rapidly growing global market, notably in Asia and the United States, and provides opportunities for EU industry around the world.</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20201123T195027Z">
+        <seg>Las energías renovables marinas son un mercado mundial en rápido crecimiento, especialmente en Asia y en los Estados Unidos, y ofrecen oportunidades en todo el mundo para la industria de la UE.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Through its Green Deal diplomacy, trade policy and the EU's energy dialogues with partner countries, the Commission will support global uptake of these technologies.</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20201123T195027Z">
+        <seg>La Comisión fomentará la adopción mundial de estas tecnologías a través de la diplomacia del Pacto Verde, de su política comercial y de los diálogos de la UE en materia de energía con los países socios.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>To analyse and monitor the environmental, social and economic impacts of offshore renewable energy on the marine environment and the economic activities that depend on it, the Commission will regularly consult a community of experts from public authorities, stakeholders and scientists.</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20201123T195027Z">
+        <seg>Para analizar y supervisar el impacto medioambiental, social y económico de las energías renovables marinas en el medio marino y en las actividades económicas que dependen de él, la Comisión consultará periódicamente a una comunidad de expertos formada por autoridades públicas, partes interesadas y científicos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Today, the Commission has also adopted a new guidance document on wind energy development and EU nature legislation.</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20201123T195027Z">
+        <seg>La Comisión también ha adoptado hoy un nuevo documento de orientación sobre el desarrollo de la energía eólica y la legislación de la UE en materia de protección de la naturaleza.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Background Offshore wind produces clean electricity that competes with, and sometimes is cheaper than, existing fossil fuel-based technology.</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20201123T195027Z">
+        <seg>Contexto La energía eólica marina produce electricidad limpia que compite con la tecnología existente basada en combustibles fósiles y a veces es más barata que esta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>European industries are fast developing a range of other technologies to harness the power of our seas for producing green electricity.</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20201123T195027Z">
+        <seg>Las industrias europeas están desarrollando rápidamente una serie de tecnologías alternativas con el fin de aprovechar la capacidad de nuestros mares para producir electricidad verde.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>From floating offshore wind, to ocean energy technologies such as wave and tidal, floating photovoltaic installations and the use of algae to produce biofuels, European companies and laboratories are currently at the forefront.</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20201123T195027Z">
+        <seg>Las empresas y laboratorios europeos están actualmente en primera línea, desde aquellos que producen energía eólica marina flotante hasta los que usan tecnologías de energía oceánica, como la undimotriz y la mareomotriz, las instalaciones fotovoltaicas flotantes y las algas para producir biocarburantes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>The Offshore Renewable Energy Strategy sets the highest deployment ambition for offshore wind turbines (both fixed-bottom and floating), where commercial activity is well advanced.</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20201123T195027Z">
+        <seg>La Estrategia sobre las Energías Renovables Marinas asigna el objetivo de despliegue más ambicioso a las turbinas eólicas marinas (tanto fijas como flotantes), en las que la actividad comercial está muy avanzada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>In these sectors, Europe has already gained unrivalled technological, scientific and industrial experience and strong capacity already exists across the supply chain, from manufacturing to installation.</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20201123T195027Z">
+        <seg>En estos sectores, Europa ya ha adquirido una experiencia tecnológica, científica e industrial sin parangón y ya existe una gran capacidad a lo largo de toda la cadena de suministro, desde la fabricación hasta la instalación.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>While the Strategy underlines the opportunities across all of the EU's sea basins – the North Sea, the Baltic Sea, the Black Sea, the Mediterranean and the Atlantic – and for certain coastal and island communities, the benefits of these technologies are not limited to coastal regions.</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20201123T195027Z">
+        <seg>Si bien la Estrategia subraya las oportunidades en todas las cuencas marítimas de la UE —las del mar del Norte, el mar Báltico, el mar Negro, la mediterránea y la atlántica— y en determinadas comunidades costeras e insulares, los beneficios de estas tecnologías no se limitan a las regiones costeras.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>The Strategy highlights a broad range of inland areas where manufacturing and research is already supporting offshore energy development.</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20201123T195027Z">
+        <seg>La Estrategia destaca una amplia gama de zonas de interior en las que la fabricación y la investigación ya están respaldando el desarrollo de la energía marina.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>For More Information Offshore Renewable Energy Strategy Staff Working Document on the Offshore Renewable Energy Strategy Memo (Q&amp;A) on the Offshore Renewable Energy Strategy Factsheet on the Offshore Renewable Energy Strategy Factsheet on Offshore Renewable Energy and key technologies Offshore Renewable Energy Strategy webpage IP/20/2096 Press contacts: Tim McPHIE (+ 32 2 295 86 02) Ana CRESPO PARRONDO (+32 2 298 13 25) Lynn RIETDORF (+32 2 297 49 59) General public inquiries: Europe Direct by phone 00 800 67 89 10 11 or by email Related media  Illustration 2020/2  Offshore energy strategy</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20201123T195027Z">
+        <seg>Más información Estrategia sobre las Energías Renovables Marinas Documento de trabajo de los servicios de la Comisión acerca de la Estrategia sobre las Energías Renovables Marinas Nota informativa (preguntas y respuestas) acerca de la Estrategia sobre Energías Renovables Marinas Ficha informativa acerca de la Estrategia sobre Energías Renovables Marinas Ficha informativa sobre energías renovables marinas y tecnologías clave Página web de la Estrategia sobre Energías Renovables Marinas IP/20/2096 Personas de contacto para la prensa: Tim McPHIE (+ 32 2 295 86 02) Ana CRESPO PARRONDO (+32 2 298 13 25) Lynn RIETDORF (+32 2 297 49 59) Solicitudes del público en general: Europe Direct por teléfono 00 800 67 89 10 11 , o por e-mail Related media  Illustration 2020/2  Offshore energy strategy</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>
